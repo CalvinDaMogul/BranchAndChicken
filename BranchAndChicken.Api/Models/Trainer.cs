@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 namespace BranchAndChicken.Api.Models
 {
     public class Trainer
-    {
+    { 
+        public Guid id { get; set; }
         public string Name { get; set; }
         public int YearsOfExperience { get; set; }
         public Specialty Specialty { get; set; }
