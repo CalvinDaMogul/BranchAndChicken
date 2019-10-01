@@ -32,7 +32,16 @@ namespace BranchAndChicken.Api.Controllers.DataAccess
                 Name = "Glenn",
                 Specialty = Specialty.ChravMcgaw,
                 YearsOfExperience = 3
+            },
+
+            new Trainer
+            {
+                id = Guid.NewGuid(),
+                Name = "Tobias",
+                Specialty = Specialty.TaeCluckDoe,
+                YearsOfExperience = 4
             }
+
 
         };
 
