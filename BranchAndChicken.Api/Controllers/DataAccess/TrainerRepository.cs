@@ -21,7 +21,7 @@ namespace BranchAndChicken.Api.Controllers.DataAccess
             new Trainer
             {
                 id = Guid.NewGuid(),
-                Name = "Calvin",
+                Name = "Tony",
                 Specialty = Specialty.Chudo,
                 YearsOfExperience = 12
             },
@@ -30,7 +30,7 @@ namespace BranchAndChicken.Api.Controllers.DataAccess
             {
                 id = Guid.NewGuid(),
                 Name = "Glenn",
-                Specialty = Specialty.ChravMcgaw,
+                Specialty = Specialty.ChravBagaw,
                 YearsOfExperience = 3
             },
 
