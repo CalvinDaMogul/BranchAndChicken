@@ -18,7 +18,7 @@ namespace BranchAndChicken.Api.Models
         Chudo,
         Chousting,
         TaeCluckDoe,
-        ChravMcgaw
+        ChravBagaw
 
     }
 }
