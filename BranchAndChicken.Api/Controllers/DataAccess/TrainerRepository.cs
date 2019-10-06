@@ -13,7 +13,7 @@ namespace BranchAndChicken.Api.Controllers.DataAccess
             new Trainer
             {
                 id =  Guid.NewGuid(),
-                Name ="Trev",
+                Name ="Trev Guinn",
                 Specialty = Specialty.TaeCluckDoe,
                 YearsOfExperience = 0
             },
@@ -21,7 +21,7 @@ namespace BranchAndChicken.Api.Controllers.DataAccess
             new Trainer
             {
                 id = Guid.NewGuid(),
-                Name = "Jurnell",
+                Name = "Jurnell Cockhren",
                 Specialty = Specialty.Chudo,
                 YearsOfExperience = 12
             },
@@ -29,7 +29,7 @@ namespace BranchAndChicken.Api.Controllers.DataAccess
             new Trainer
             {
                 id = Guid.NewGuid(),
-                Name = "Glenn",
+                Name = "Glenn Dixon",
                 Specialty = Specialty.ChravBagaw,
                 YearsOfExperience = 3
             },
@@ -37,7 +37,7 @@ namespace BranchAndChicken.Api.Controllers.DataAccess
             new Trainer
             {
                 id = Guid.NewGuid(),
-                Name = "Tobias",
+                Name = "Tobias Blair",
                 Specialty = Specialty.TaeCluckDoe,
                 YearsOfExperience = 4
             }
